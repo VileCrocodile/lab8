@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="theList" type="id" />
+    <item name="theEditor" type="id" />
+    <item name="theButton" type="id" />
+    <item name="theSwitch" type="id">1</item>
+    <item name="fragment_container" type="id" />
+    <item name="drawer_layout" type="id" />
+</resources>
